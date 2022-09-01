@@ -15,7 +15,8 @@ Using assistive technologies like video captions, screen readers, and braille ke
 
 ## Credits
 
-N/A
+https://github.com/victor5055/challange-1
+https://victor5055.github.io/challange-1/
 
 ## License
 
