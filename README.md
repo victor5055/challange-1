@@ -1,2 +1,22 @@
 # challange-1
-week 1 challenge
+
+## Description
+
+This challange was created for students to esure that people with disabilities can access a website using assistive technologies.
+
+
+## Installation
+
+N/A
+
+## Usage 
+
+Using assistive technologies like video captions, screen readers, and braille keyboards to make the site more accessible to users.
+
+## Credits
+
+N/A
+
+## License
+
+N/A
