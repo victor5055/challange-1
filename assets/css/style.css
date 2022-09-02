@@ -1,13 +1,14 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Element Selectors select all of that element type */
 body {
     background-color: #d9dcd6;
 }
-
+/* Class Selectors */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,6 +48,7 @@ a {
 }
 
 p {
+    /* Font-size property sets the size of a font */
     font-size: 16px;
 }
 
@@ -195,6 +197,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h3 {
     font-size: 20px;
 }
